@@ -5,6 +5,10 @@ A beautifully crafted **interactive virtual menu experience** designed to bring 
 Built with pure frontend technologies, this project transforms a regular restaurant menu into an elegant and immersive browsing experience with smooth animations, premium styling, and responsive design.
 
 ---
+🌐 Live Demo
+
+🔗 Try it here:
+[View Live Project](https://aggarwal-sweet-centre.netlify.app/)
 
 ## 🍽️ About The Project
 
