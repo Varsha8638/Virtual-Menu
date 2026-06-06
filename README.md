@@ -44,6 +44,10 @@ Inspired by premium restaurant aesthetics, the design focuses on:
 
 ## 📸 Preview
 
+![Home](screenshot/preview1.png)
+
+![Menu](screenshot/preview2.png)
+
 
 ---
 
